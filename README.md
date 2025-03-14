@@ -26,6 +26,9 @@ X_Sentiment/
 ├── data/
 │   └── twitter - Copy.csv
 │
+├── notebook/
+│   └── X_Sentiment_Analysis.ipynb
+│
 └── README.md
 ```
 
